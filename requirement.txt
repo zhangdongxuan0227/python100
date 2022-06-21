@@ -64,7 +64,7 @@ MarkupSafe==1.0
 matplotlib==2.2.2
 more-itertools==4.2.0
 namedlist==1.7
-numpy==1.14.4
+numpy==1.22.0
 paramiko==2.4.1
 parse==1.8.2
 Pillow==5.1.0
