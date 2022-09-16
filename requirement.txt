@@ -57,7 +57,7 @@ kitchen==1.2.5
 kiwisolver==1.0.1
 Logbook==1.4.0
 lxml==4.2.1
-Mako==1.0.7
+Mako==1.2.2
 maproxy==0.0.12
 Markdown==2.6.11
 MarkupSafe==1.0
