@@ -16,7 +16,7 @@ black==18.5b1
 bleach==2.1.2
 blinker==1.4
 bs4==0.0.1
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 cigam==0.0.3
